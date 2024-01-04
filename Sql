@@ -1,0 +1,20 @@
+-- Create Database
+CREATE DATABASE EMSDB;
+
+-- Use Database
+USE EMSDB;
+
+-- Create Tables
+CREATE TABLE DeptMaster (
+    DeptCode INT PRIMARY KEY,
+    DeptName VARCHAR(255)
+);
+
+CREATE TABLE EmpProfile (
+    EmpCode INT PRIMARY KEY,
+    DateOfBirth DATETIME,
+    EmpName VARCHAR(255),
+    Email VARCHAR(255),
+    DeptCode INT,
+    FOREIGN KEY (DeptCode) REFERENCES DeptMaster(DeptCode)
+);
