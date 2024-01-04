@@ -1,0 +1,7 @@
+C:\Mphasis -B233\AppTwo\PHASE-3\PhaseEndproject\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mphasis -B233\AppTwo\PHASE-3\PhaseEndproject\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Mphasis -B233\AppTwo\PHASE-3\PhaseEndproject\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+C:\Mphasis -B233\AppTwo\PHASE-3\PhaseEndproject\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Mphasis -B233\AppTwo\PHASE-3\PhaseEndproject\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Mphasis -B233\AppTwo\PHASE-3\PhaseEndproject\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.RazorAssemblyInfo.cache
+C:\Mphasis -B233\AppTwo\PHASE-3\PhaseEndproject\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.RazorAssemblyInfo.cs
